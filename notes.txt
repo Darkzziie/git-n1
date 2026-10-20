@@ -1,1 +1,2 @@
-Fast forward merge
+Branch change
+Branch change
