@@ -1,6 +1,6 @@
 # Simple Calculator
 
-Python calculator.
+Simple Python calculator.
 
 ## Features
 
