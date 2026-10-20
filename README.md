@@ -34,3 +34,4 @@ Run the tests:
 
     pytest -v
 Main change for rebase
+Diff test
