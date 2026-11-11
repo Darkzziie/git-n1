@@ -5,7 +5,7 @@ Simple Python calculator.
 ## Features
 
 - Addition, subtraction, multiplication, and division
-- Error handling for division by zero
+- Error handling for division by zero (prints out error)
 - Automated tests using pytest
 
 ## Requirements
